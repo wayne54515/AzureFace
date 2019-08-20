@@ -1,1 +1,1 @@
-# AzureFaceRecog
+# AzureFace
